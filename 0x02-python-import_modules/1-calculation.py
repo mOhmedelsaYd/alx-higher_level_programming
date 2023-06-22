@@ -2,10 +2,8 @@
 
 if __name__ == "__main__":
 
-
     from calculator_1 import add, sub, mul, div
-    """Print sum, difference, multiple, div mo mo mo mo mo mo mo mo mo.
-"""
+    """Print the sum, difference, multiple and quotient of 10 and 5."""
     a = 10
     b = 5
 
