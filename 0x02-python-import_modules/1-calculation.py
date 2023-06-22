@@ -4,7 +4,7 @@ if __name__ == "__main__":
 
 
     from calculator_1 import add, sub, mul, div
-
+    """print sum, difference, multiple, div"""
     a = 10
     b = 5
 
