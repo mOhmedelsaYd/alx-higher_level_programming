@@ -4,5 +4,5 @@
 def multiple_returns(sentence):
     """Return length and first letter"""
     if sentence == "":
-        return None
+        return (0, None)
     return (len(sentence), sentence[0])
