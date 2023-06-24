@@ -3,9 +3,7 @@
 
 def element_at(my_list, idx):
     """return element in the determined index"""
-    element = my_list[idx]
-
     if(idx < 0 or idx > (len(my_list) - 1)):
         return None
     else:
-        return element
+        return (my_list[idx])
